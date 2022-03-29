@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Care documentation" max_length="40" name="x_797485_caretake_care_documentation" type="collection">
+        <element label="Fulfillment" max_length="40" name="fulfillment" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Requriement" max_length="32" name="requriement" reference="x_797485_caretake_care_requirements" type="reference"/>
+        <element label="Resident" max_length="32" name="resident" reference="x_797485_caretake_resident" type="reference"/>
+        <index name="index">
+            <element name="requriement"/>
+        </index>
+        <index name="index2">
+            <element name="resident"/>
+        </index>
+    </element>
+</database>

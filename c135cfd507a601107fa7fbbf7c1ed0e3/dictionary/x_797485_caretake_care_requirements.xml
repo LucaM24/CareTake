@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Care requirements" max_length="40" name="x_797485_caretake_care_requirements" type="collection">
+        <element label="Amount per frequence" max_length="40" name="amount_per_frequence" type="string"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element choice="3" label="Frequence" max_length="40" name="frequence" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Daily" sequence="10" value="daily"/>
+                <element inactive_on_update="false" label="Weekly" sequence="20" value="weekly"/>
+                <element inactive_on_update="false" label="Monthly" sequence="30" value="monthly"/>
+                <element inactive_on_update="false" label="Per need" sequence="40" value="per_need"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Resident" max_length="32" name="resident" reference="x_797485_caretake_resident" type="reference"/>
+        <index name="index">
+            <element name="resident"/>
+        </index>
+    </element>
+</database>
