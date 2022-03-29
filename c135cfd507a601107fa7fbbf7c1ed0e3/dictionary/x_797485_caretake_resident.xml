@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Resident" max_length="40" name="x_797485_caretake_resident" type="collection">
         <element label="Building" max_length="40" name="building" type="string"/>
+        <element label="Emergency contact adress" max_length="40" name="emergency_contact_adress" type="string"/>
+        <element label="Emergency contact name" max_length="40" name="emergency_contact_name" type="string"/>
+        <element label="Emergency contact telephone number" max_length="40" name="emergency_contact_telephone_number" type="string"/>
+        <element label="Emergency contact town" max_length="40" name="emergency_contact_town" type="string"/>
+        <element label="First name" max_length="40" name="first_name" type="string"/>
+        <element display="true" label="Last name" max_length="40" name="last_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Residency end" max_length="40" name="residency_end" type="glide_date"/>
         <element label="Residency start" max_length="40" name="residency_start" type="glide_date"/>
         <element label="Room" max_length="40" name="room" type="string"/>
-        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
-        <index name="index">
-            <element name="user"/>
-        </index>
     </element>
 </database>
