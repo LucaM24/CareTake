@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_797485_caretake_wounds" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_797485_caretake_wounds" element="NULL" name="x_797485_caretake_wounds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">358bdb9907e601107fa7fbbf7c1ed06c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:35</sys_created_on>
+            <sys_id>318bdb9907e601107fa7fbbf7c1ed06d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cause_of_wound</element>
+            <list_id display_value="x_797485_caretake_wounds" element="NULL" name="x_797485_caretake_wounds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">358bdb9907e601107fa7fbbf7c1ed06c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:35</sys_created_on>
+            <sys_id>358bdb9907e601107fa7fbbf7c1ed06d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comment</element>
+            <list_id display_value="x_797485_caretake_wounds" element="NULL" name="x_797485_caretake_wounds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">358bdb9907e601107fa7fbbf7c1ed06c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:35</sys_created_on>
+            <sys_id>398bdb9907e601107fa7fbbf7c1ed06d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>current_state</element>
+            <list_id display_value="x_797485_caretake_wounds" element="NULL" name="x_797485_caretake_wounds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">358bdb9907e601107fa7fbbf7c1ed06c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:35</sys_created_on>
+            <sys_id>3d8bdb9907e601107fa7fbbf7c1ed06d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>feeling_of_resident</element>
+            <list_id display_value="x_797485_caretake_wounds" element="NULL" name="x_797485_caretake_wounds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">358bdb9907e601107fa7fbbf7c1ed06c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:35</sys_created_on>
+            <sys_id>318bdb9907e601107fa7fbbf7c1ed06e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>resident</element>
+            <list_id display_value="x_797485_caretake_wounds" element="NULL" name="x_797485_caretake_wounds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">358bdb9907e601107fa7fbbf7c1ed06c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:35</sys_created_on>
+            <sys_id>358bdb9907e601107fa7fbbf7c1ed06e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>seriousness</element>
+            <list_id display_value="x_797485_caretake_wounds" element="NULL" name="x_797485_caretake_wounds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">358bdb9907e601107fa7fbbf7c1ed06c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:35</sys_created_on>
+            <sys_id>398bdb9907e601107fa7fbbf7c1ed06e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_797485_caretake_wounds</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>358bdb9907e601107fa7fbbf7c1ed06c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_797485_caretake_wounds</sys_name>
+            <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+            <sys_update_name>sys_ui_list_x_797485_caretake_wounds_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

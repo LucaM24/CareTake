@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_797485_caretake_resident" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Resident - Default view" name="x_797485_caretake_resident" related_list="NULL" sys_domain="global" view="Default view">d98b139907e601107fa7fbbf7c1ed045</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_797485_caretake_general_info.resident</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:33</sys_created_on>
+            <sys_id>158b139907e601107fa7fbbf7c1ed047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:33</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Resident - Default view" name="x_797485_caretake_resident" related_list="NULL" sys_domain="global" view="Default view">d98b139907e601107fa7fbbf7c1ed045</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_797485_caretake_information.resident</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:33</sys_created_on>
+            <sys_id>9d8b139907e601107fa7fbbf7c1ed047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:33</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Resident - Default view" name="x_797485_caretake_resident" related_list="NULL" sys_domain="global" view="Default view">d98b139907e601107fa7fbbf7c1ed045</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>x_797485_caretake_medication.resident</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:33</sys_created_on>
+            <sys_id>918b139907e601107fa7fbbf7c1ed048</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:33</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Resident - Default view" name="x_797485_caretake_resident" related_list="NULL" sys_domain="global" view="Default view">d98b139907e601107fa7fbbf7c1ed045</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>x_797485_caretake_mobility.resident</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:33</sys_created_on>
+            <sys_id>958b139907e601107fa7fbbf7c1ed048</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:33</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Resident - Default view" name="x_797485_caretake_resident" related_list="NULL" sys_domain="global" view="Default view">d98b139907e601107fa7fbbf7c1ed045</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>x_797485_caretake_falls.resident</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:33</sys_created_on>
+            <sys_id>998b139907e601107fa7fbbf7c1ed048</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:33</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Resident - Default view" name="x_797485_caretake_resident" related_list="NULL" sys_domain="global" view="Default view">d98b139907e601107fa7fbbf7c1ed045</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>x_797485_caretake_wounds.resident</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:33</sys_created_on>
+            <sys_id>9d8b139907e601107fa7fbbf7c1ed048</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:33</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Resident - Default view</calculated_name>
+            <filter/>
+            <name>x_797485_caretake_resident</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 15:31:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d98b139907e601107fa7fbbf7c1ed045</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Resident - Default view</sys_name>
+            <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+            <sys_update_name>sys_ui_related_x_797485_caretake_resident_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 15:31:33</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
