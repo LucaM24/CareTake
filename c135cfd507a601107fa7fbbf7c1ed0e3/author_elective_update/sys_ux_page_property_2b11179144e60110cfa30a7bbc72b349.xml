@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Contains references to global search configurations to be consumed by search components</description>
+        <name>global_search_configurations</name>
+        <page display_value="">23111791f0e601104f09cfd6054d9a49</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-29 14:46:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>2b11179144e60110cfa30a7bbc72b349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+        <sys_update_name>sys_ux_page_property_2b11179144e60110cfa30a7bbc72b349</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-29 14:46:08</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_797485_caretake.23111791f0e601104f09cfd6054d9a49.root.global_search_configurations</unique_name>
+        <value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</application>
+        <file_path/>
+        <instance_id>5f196645dbdbc8949df22f17d4961948</instance_id>
+        <instance_name>dev101719</instance_name>
+        <name>sys_ux_page_property_2b11179144e60110cfa30a7bbc72b349</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Contains references to global search configurations to be consumed by search components</description><name>global_search_configurations</name><page display_value="">23111791f0e601104f09cfd6054d9a49</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-29 14:46:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>2b11179144e60110cfa30a7bbc72b349</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_search_configurations</sys_name><sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package><sys_policy/><sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope><sys_update_name>sys_ux_page_property_2b11179144e60110cfa30a7bbc72b349</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-29 14:46:08</sys_updated_on><type>json</type><unique_name>x_797485_caretake.23111791f0e601104f09cfd6054d9a49.root.global_search_configurations</unique_name><value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-674511854</payload_hash>
+        <record_name>global_search_configurations</record_name>
+        <reverted_from/>
+        <source>ce694a91072201107fa7fbbf7c1ed011</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-03-29 09:32:47</sys_created_on>
+        <sys_id>4048dfd507e601107fa7fbbf7c1ed03f</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17fd50546180000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>0048dfd577e601100d1197ab7f2bfa3f</update_guid>
+        <update_guid_history>0048dfd577e601100d1197ab7f2bfa3f:-674511854</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-29 15:17:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0e44726c08e84513adc81640064812b1</sys_id>
+        <sys_metadata>2b11179144e60110cfa30a7bbc72b349</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+        <sys_scope_delete display_value="">4bfc1641740a46589e55bfac6a6ff264</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_2b11179144e60110cfa30a7bbc72b349</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_2b11179144e60110cfa30a7bbc72b349">4048dfd507e601107fa7fbbf7c1ed03f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-29 15:17:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
