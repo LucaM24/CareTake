@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Mobility" max_length="40" name="x_797485_caretake_mobility" type="collection">
+        <element choice="1" label="Bending over" max_length="40" name="bending_over" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Normal" sequence="10" value="normal"/>
+                <element inactive_on_update="false" label="Impaired" sequence="20" value="impaired"/>
+                <element inactive_on_update="false" label="Bad" sequence="30" value="bad"/>
+            </choice>
+        </element>
+        <element label="Comment" max_length="40" name="comment" type="string"/>
+        <element choice="1" label="Danger of falling" max_length="40" name="danger_of_falling" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Normal" sequence="10" value="normal"/>
+                <element inactive_on_update="false" label="Needs guidance" sequence="20" value="needs_guidance"/>
+                <element inactive_on_update="false" label="High" sequence="30" value="high"/>
+            </choice>
+        </element>
+        <element label="Need of rollator" max_length="40" name="need_of_rollator" type="boolean"/>
+        <element label="Need of walking aid" max_length="40" name="need_of_walking_aid" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Resident" max_length="32" name="resident" reference="x_797485_caretake_resident" type="reference"/>
+        <element choice="1" label="Standing" max_length="40" name="standing" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Normal" sequence="10" value="normal"/>
+                <element inactive_on_update="false" label="Impaired" sequence="20" value="impaired"/>
+                <element inactive_on_update="false" label="Bad" sequence="30" value="bad"/>
+            </choice>
+        </element>
+        <element choice="1" label="Walking" max_length="40" name="walking" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Normal" sequence="10" value="normal"/>
+                <element inactive_on_update="false" label="Impaired" sequence="20" value="impaired"/>
+                <element inactive_on_update="false" label="Not possible" sequence="30" value="not_possible"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="resident"/>
+        </index>
+    </element>
+</database>

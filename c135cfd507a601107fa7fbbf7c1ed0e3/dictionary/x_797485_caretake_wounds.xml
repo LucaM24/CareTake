@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Wounds" max_length="40" name="x_797485_caretake_wounds" type="collection">
+        <element choice="1" label="Cause of wound" max_length="40" name="cause_of_wound" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Injury" sequence="10" value="injury"/>
+                <element inactive_on_update="false" label="Operation" sequence="20" value="operation"/>
+                <element inactive_on_update="false" label="Self inflicted" sequence="30" value="self_inflicted"/>
+            </choice>
+        </element>
+        <element label="Comment" max_length="40" name="comment" type="string"/>
+        <element choice="1" label="Current state" max_length="40" name="current_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fresh" sequence="10" value="fresh"/>
+                <element inactive_on_update="false" label="Healed" sequence="20" value="healed"/>
+            </choice>
+        </element>
+        <element choice="1" label="Feeling of resident" max_length="40" name="feeling_of_resident" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Good" sequence="10" value="good"/>
+                <element inactive_on_update="false" label="Bad" sequence="20" value="bad"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Resident" max_length="32" name="resident" reference="x_797485_caretake_resident" type="reference"/>
+        <element choice="1" label="Seriousness" max_length="40" name="seriousness" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High" sequence="10" value="high"/>
+                <element inactive_on_update="false" label="Low" sequence="20" value="low"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="resident"/>
+        </index>
+    </element>
+</database>

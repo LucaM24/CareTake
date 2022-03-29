@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Medication" max_length="40" name="x_797485_caretake_medication" type="collection">
+        <element label="Beginn of medication" max_length="40" name="beginn_of_medication" type="glide_date"/>
+        <element label="Comment" max_length="40" name="comment" type="string"/>
+        <element label="Dose and frequence" max_length="40" name="dose_and_frequence" type="string"/>
+        <element label="End of medication" max_length="40" name="end_of_medication" type="glide_date"/>
+        <element label="Medication name" max_length="40" name="medication_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Prescribed by" max_length="40" name="prescribed_by" type="string"/>
+        <element label="Resident" max_length="32" name="resident" reference="x_797485_caretake_resident" type="reference"/>
+        <index name="index">
+            <element name="resident"/>
+        </index>
+    </element>
+</database>

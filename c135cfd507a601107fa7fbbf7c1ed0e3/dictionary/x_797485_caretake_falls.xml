@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Falls" max_length="40" name="x_797485_caretake_falls" type="collection">
+        <element label="Comment to fall" max_length="40" name="comment_to_fall" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Resident" max_length="32" name="resident" reference="x_797485_caretake_resident" type="reference"/>
+        <element choice="1" label="Seriousness of fall" max_length="40" name="seriousness_of_fall" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="10" value="low"/>
+                <element inactive_on_update="false" label="Medium" sequence="20" value="medium"/>
+                <element inactive_on_update="false" label="High" sequence="30" value="high"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="resident"/>
+        </index>
+    </element>
+</database>

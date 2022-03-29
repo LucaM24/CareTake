@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="prescribed_by" label="Prescribed by" language="en" table="x_797485_caretake_medication">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>prescribed_by</element>
+            <help/>
+            <hint/>
+            <label>Prescribed by</label>
+            <language>en</language>
+            <name>x_797485_caretake_medication</name>
+            <plural>Prescribed by</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 14:03:06</sys_created_on>
+            <sys_id>e5474f5907a601107fa7fbbf7c1ed05f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Prescribed by</sys_name>
+            <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+            <sys_update_name>sys_documentation_x_797485_caretake_medication_prescribed_by_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 14:03:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

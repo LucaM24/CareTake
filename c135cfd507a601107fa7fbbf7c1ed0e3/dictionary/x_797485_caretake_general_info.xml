@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="General Info" max_length="40" name="x_797485_caretake_general_info" type="collection">
+        <element label="Attentiveness" max_length="40" name="attentiveness" type="string"/>
+        <element label="Eyesight" max_length="40" name="eyesight" type="string"/>
+        <element label="Hearing aid" max_length="40" name="hearing_aid" type="boolean"/>
+        <element label="Language ability" max_length="40" name="language_ability" type="string"/>
+        <element label="Memory" max_length="40" name="memory" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Orientation" max_length="40" name="orientation" type="string"/>
+        <element label="Resident" max_length="32" name="resident" reference="x_797485_caretake_resident" type="reference"/>
+        <element label="Will" max_length="40" name="will" type="string"/>
+        <index name="index">
+            <element name="resident"/>
+        </index>
+    </element>
+</database>

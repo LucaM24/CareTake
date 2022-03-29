@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="dose_and_frequence" label="Dose and frequence" language="en" table="x_797485_caretake_medication">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>dose_and_frequence</element>
+            <help/>
+            <hint/>
+            <label>Dose and frequence</label>
+            <language>en</language>
+            <name>x_797485_caretake_medication</name>
+            <plural>Dose and frequences</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 14:03:04</sys_created_on>
+            <sys_id>0d474f5907a601107fa7fbbf7c1ed07f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Dose and frequence</sys_name>
+            <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+            <sys_update_name>sys_documentation_x_797485_caretake_medication_dose_and_frequence_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 14:03:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

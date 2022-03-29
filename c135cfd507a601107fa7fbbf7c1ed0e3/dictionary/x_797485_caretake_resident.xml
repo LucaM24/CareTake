@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Resident" max_length="40" name="x_797485_caretake_resident" type="collection">
+        <element label="Building" max_length="40" name="building" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Residency end" max_length="40" name="residency_end" type="glide_date"/>
+        <element label="Residency start" max_length="40" name="residency_start" type="glide_date"/>
+        <element label="Room" max_length="40" name="room" type="string"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
