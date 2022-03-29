@@ -32,7 +32,7 @@
             "text" : {
               "type" : "TRANSLATION_LITERAL",
               "value" : {
-                "message" : "Your assigned tasks",
+                "message" : "Tasks assigned to you",
                 "comment" : ""
               }
             },
@@ -862,9 +862,6 @@
   "message" : "Tasks assigned to your group",
   "comment" : ""
 }, {
-  "message" : "Your assigned tasks",
-  "comment" : ""
-}, {
   "message" : "Your tasks",
   "comment" : ""
 } ]</required_translations>
@@ -877,13 +874,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-03-29 14:46:09</sys_created_on>
         <sys_id>af111791d6e60110c56684777f96d448</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Home</sys_name>
         <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
         <sys_update_name>sys_ux_macroponent_af111791d6e60110c56684777f96d448</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-29 14:54:04</sys_updated_on>
+        <sys_updated_on>2022-03-29 15:10:50</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>
