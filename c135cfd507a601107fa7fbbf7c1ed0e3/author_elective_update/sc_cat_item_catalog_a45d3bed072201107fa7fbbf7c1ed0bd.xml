@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Request a good for a resident">199c7fad072201107fa7fbbf7c1ed047</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 12:37:42</sys_created_on>
+        <sys_id>a45d3bed072201107fa7fbbf7c1ed0bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request a good for a resident</sys_name>
+        <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_a45d3bed072201107fa7fbbf7c1ed0bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 12:37:42</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</application>
+        <file_path/>
+        <instance_id>5f196645dbdbc8949df22f17d4961948</instance_id>
+        <instance_name>dev101719</instance_name>
+        <name>sc_cat_item_catalog_a45d3bed072201107fa7fbbf7c1ed0bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a good for a resident">199c7fad072201107fa7fbbf7c1ed047</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-30 12:37:42</sys_created_on><sys_id>a45d3bed072201107fa7fbbf7c1ed0bd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Request a good for a resident</sys_name><sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package><sys_policy/><sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope><sys_update_name>sc_cat_item_catalog_a45d3bed072201107fa7fbbf7c1ed0bd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-30 12:37:42</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>719394337</payload_hash>
+        <record_name>Service Catalog.Request a good for a resident</record_name>
+        <reverted_from/>
+        <source>4abc875d07a601107fa7fbbf7c1ed008</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 12:37:42</sys_created_on>
+        <sys_id>a85d3bed072201107fa7fbbf7c1ed0e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fdad4f1b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 12:37:42</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>205d3bed082201106d318b54c4bec9e8</update_guid>
+        <update_guid_history>205d3bed082201106d318b54c4bec9e8:719394337</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Request a good for a resident">cb6dbbed072201107fa7fbbf7c1ed0a8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 12:38:09</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0b8633b65ad446449001732de856d9f9</sys_id>
+        <sys_metadata>a45d3bed072201107fa7fbbf7c1ed0bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request a good for a resident</sys_name>
+        <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+        <sys_parent display_value="Request a good for a resident">199c7fad072201107fa7fbbf7c1ed047</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+        <sys_scope_delete display_value="">4bfc1641740a46589e55bfac6a6ff264</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_a45d3bed072201107fa7fbbf7c1ed0bd</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_a45d3bed072201107fa7fbbf7c1ed0bd">a85d3bed072201107fa7fbbf7c1ed0e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 12:38:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
