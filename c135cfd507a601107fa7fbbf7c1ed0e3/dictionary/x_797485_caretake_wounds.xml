@@ -14,6 +14,7 @@
                 <element inactive_on_update="false" label="Healed" sequence="20" value="healed"/>
             </choice>
         </element>
+        <element label="Fall" max_length="32" name="fall" reference="x_797485_caretake_falls" type="reference"/>
         <element choice="1" label="Feeling of resident" max_length="40" name="feeling_of_resident" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Good" sequence="10" value="good"/>
@@ -29,6 +30,9 @@
             </choice>
         </element>
         <index name="index">
+            <element name="fall"/>
+        </index>
+        <index name="index2">
             <element name="resident"/>
         </index>
     </element>
