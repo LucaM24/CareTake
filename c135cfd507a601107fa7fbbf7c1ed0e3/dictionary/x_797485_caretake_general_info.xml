@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="General Info" max_length="40" name="x_797485_caretake_general_info" type="collection">
+    <element label="General Info" max_length="40" name="x_797485_caretake_general_info" sizeclass="1" type="collection">
         <element label="Attentiveness" max_length="40" name="attentiveness" type="string"/>
         <element label="Eyesight" max_length="40" name="eyesight" type="string"/>
         <element label="Hearing aid" max_length="40" name="hearing_aid" type="boolean"/>

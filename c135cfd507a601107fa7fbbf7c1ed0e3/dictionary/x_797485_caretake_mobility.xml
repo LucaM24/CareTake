@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Mobility" max_length="40" name="x_797485_caretake_mobility" type="collection">
+    <element label="Mobility" max_length="40" name="x_797485_caretake_mobility" sizeclass="1" type="collection">
         <element choice="1" label="Bending over" max_length="40" name="bending_over" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Normal" sequence="10" value="normal"/>

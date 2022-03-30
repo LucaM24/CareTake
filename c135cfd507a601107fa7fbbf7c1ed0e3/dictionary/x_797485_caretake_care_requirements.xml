@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Care requirements" max_length="40" name="x_797485_caretake_care_requirements" type="collection">
+    <element label="Care requirements" max_length="40" name="x_797485_caretake_care_requirements" sizeclass="1" type="collection">
         <element label="Amount per frequence" max_length="40" name="amount_per_frequence" type="string"/>
         <element label="Description" max_length="40" name="description" type="string"/>
         <element choice="3" label="Frequence" max_length="40" name="frequence" type="choice">

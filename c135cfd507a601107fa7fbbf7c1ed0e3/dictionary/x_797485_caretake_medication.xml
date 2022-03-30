@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Medication" max_length="40" name="x_797485_caretake_medication" type="collection">
+    <element label="Medication" max_length="40" name="x_797485_caretake_medication" sizeclass="1" type="collection">
         <element label="Beginn of medication" max_length="40" name="beginn_of_medication" type="glide_date"/>
         <element label="Comment" max_length="40" name="comment" type="string"/>
         <element label="Dose and frequence" max_length="40" name="dose_and_frequence" type="string"/>

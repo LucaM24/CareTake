@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Resident" max_length="40" name="x_797485_caretake_resident" type="collection">
+    <element label="Resident" max_length="40" name="x_797485_caretake_resident" sizeclass="1" type="collection">
         <element label="Building" max_length="40" name="building" type="string"/>
         <element label="Emergency contact adress" max_length="40" name="emergency_contact_adress" type="string"/>
         <element label="Emergency contact name" max_length="40" name="emergency_contact_name" type="string"/>

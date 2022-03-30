@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Wounds" max_length="40" name="x_797485_caretake_wounds" type="collection">
+    <element label="Wounds" max_length="40" name="x_797485_caretake_wounds" sizeclass="1" type="collection">
         <element choice="1" label="Cause of wound" max_length="40" name="cause_of_wound" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Injury" sequence="10" value="injury"/>
