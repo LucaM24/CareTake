@@ -5,8 +5,9 @@
         <script><![CDATA[(function runMailScript(/* GlideRecord */ current, /* TemplatePrinter */ template,
           /* Optional EmailOutbound */ email, /* Optional GlideRecord */ email_action,
           /* Optional GlideRecord */ event) {
-	
+	//Get link to the RITM
 	var link = current.getLink();
+	//CSS to visually alter the added button
     var backgroundColor = 'background-color: #278efc;';
 	var border = 'border: 1px solid #0368d4;';
 	var color = 'color: #ffffff;';
@@ -17,12 +18,8 @@
 	var mozBorder = '-moz-border-radius: 3px;';
 	var display = 'display: inline-block;';
 	var padding = 'padding: 5px;';
-	
-	
-	
-	
-	
-template.print('<a href="' + link + '"');
+	//Adding the button to the 'HTML' of the email notification
+	template.print('<a href="' + link + '"');
 	template.print('style="' + backgroundColor + border + color + fontSize + fontFamily + textDecoration + webKitBorder + mozBorder + display + padding);
 	template.print('">');
 	template.print(gs.getMessage('Take me to the Request'));
@@ -40,13 +37,13 @@ template.print('<a href="' + link + '"');
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-03-30 15:33:28</sys_created_on>
         <sys_id>5085e83107e201107fa7fbbf7c1ed026</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>take_me_to_request</sys_name>
         <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
         <sys_update_name>sys_script_email_5085e83107e201107fa7fbbf7c1ed026</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-30 15:33:28</sys_updated_on>
+        <sys_updated_on>2022-04-03 09:49:18</sys_updated_on>
     </sys_script_email>
 </record_update>
