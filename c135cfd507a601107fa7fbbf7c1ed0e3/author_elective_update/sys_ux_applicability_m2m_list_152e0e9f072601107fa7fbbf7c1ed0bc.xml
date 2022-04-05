@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="DELETE">
+        <active>true</active>
+        <applicability display_value="CareGiver">a10d029f072601107fa7fbbf7c1ed05e</applicability>
+        <list display_value="All">777621a873201010a0a79329faf6a712</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-04 15:01:19</sys_created_on>
+        <sys_id>152e0e9f072601107fa7fbbf7c1ed0bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_152e0e9f072601107fa7fbbf7c1ed0bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-04 15:01:19</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</application>
+        <file_path/>
+        <instance_id>5f196645dbdbc8949df22f17d4961948</instance_id>
+        <instance_name>dev101719</instance_name>
+        <name>sys_ux_applicability_m2m_list_152e0e9f072601107fa7fbbf7c1ed0bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="CareGiver">a10d029f072601107fa7fbbf7c1ed05e</applicability><list display_value="All">777621a873201010a0a79329faf6a712</list><order>0</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-04 15:01:19</sys_created_on><sys_id>152e0e9f072601107fa7fbbf7c1ed0bc</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package><sys_policy/><sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_152e0e9f072601107fa7fbbf7c1ed0bc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-04 15:01:19</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+        <payload_hash>-1816395800</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4abc875d07a601107fa7fbbf7c1ed008</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-04 15:01:19</sys_created_on>
+        <sys_id>112e0e9f072601107fa7fbbf7c1ed0be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ff51839ef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-04 15:01:19</sys_updated_on>
+        <type>List Applicability</type>
+        <update_guid>592e0e9fd1260110a19d6ccb1211b3bd</update_guid>
+        <update_guid_history>592e0e9fd1260110a19d6ccb1211b3bd:-1816395800</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-04 15:07:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_list">sys_ux_applicability_m2m_list</sys_db_object>
+        <sys_id>0f018caf261f476b8cc61a3fa57ef299</sys_id>
+        <sys_metadata>152e0e9f072601107fa7fbbf7c1ed0bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+        <sys_scope_delete display_value="">4bfc1641740a46589e55bfac6a6ff264</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_list_152e0e9f072601107fa7fbbf7c1ed0bc</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_list_152e0e9f072601107fa7fbbf7c1ed0bc">112e0e9f072601107fa7fbbf7c1ed0be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-04 15:07:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

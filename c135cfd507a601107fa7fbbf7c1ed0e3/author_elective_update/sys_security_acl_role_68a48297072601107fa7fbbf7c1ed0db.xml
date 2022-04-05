@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-04 14:19:47</sys_created_on>
+        <sys_id>68a48297072601107fa7fbbf7c1ed0db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_797485_caretake_day_shift.x_797485_caretake.Shift planning</sys_name>
+        <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+        <sys_security_acl display_value="x_797485_caretake_day_shift">aca48297072601107fa7fbbf7c1ed0d8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_68a48297072601107fa7fbbf7c1ed0db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-04 14:19:47</sys_updated_on>
+        <sys_user_role display_value="x_797485_caretake.Shift planning" name="x_797485_caretake.Shift planning">aca48297072601107fa7fbbf7c1ed0c1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</application>
+        <file_path/>
+        <instance_id>5f196645dbdbc8949df22f17d4961948</instance_id>
+        <instance_name>dev101719</instance_name>
+        <name>sys_security_acl_role_68a48297072601107fa7fbbf7c1ed0db</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-04 14:19:47</sys_created_on><sys_id>68a48297072601107fa7fbbf7c1ed0db</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_797485_caretake_day_shift.x_797485_caretake.Shift planning</sys_name><sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package><sys_policy/><sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope><sys_security_acl display_value="x_797485_caretake_day_shift">aca48297072601107fa7fbbf7c1ed0d8</sys_security_acl><sys_update_name>sys_security_acl_role_68a48297072601107fa7fbbf7c1ed0db</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-04 14:19:47</sys_updated_on><sys_user_role display_value="x_797485_caretake.Shift planning" name="x_797485_caretake.Shift planning">aca48297072601107fa7fbbf7c1ed0c1</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1225536076</payload_hash>
+        <record_name>x_797485_caretake_day_shift.x_797485_caretake.Shift planning</record_name>
+        <reverted_from/>
+        <source>4abc875d07a601107fa7fbbf7c1ed008</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-04 14:19:47</sys_created_on>
+        <sys_id>b0a48297072601107fa7fbbf7c1ed0de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ff4f230200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-04 14:19:47</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>f8a48297df26011003264b8e0c59c8dd</update_guid>
+        <update_guid_history>f8a48297df26011003264b8e0c59c8dd:1225536076</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_797485_caretake_day_shift.x_797485_caretake.Shift planning">19a6861b072601107fa7fbbf7c1ed019</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-04 14:28:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>3e23f377ef224c7890e7cf597adc5240</sys_id>
+        <sys_metadata>68a48297072601107fa7fbbf7c1ed0db</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_797485_caretake_day_shift.x_797485_caretake.Shift planning</sys_name>
+        <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+        <sys_parent display_value="">aca48297072601107fa7fbbf7c1ed0d8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+        <sys_scope_delete display_value="">4bfc1641740a46589e55bfac6a6ff264</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_68a48297072601107fa7fbbf7c1ed0db</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_68a48297072601107fa7fbbf7c1ed0db">b0a48297072601107fa7fbbf7c1ed0de</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-04 14:28:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

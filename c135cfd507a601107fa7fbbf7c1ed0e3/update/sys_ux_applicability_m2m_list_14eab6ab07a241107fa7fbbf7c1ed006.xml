@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="CareGiver">a10d029f072601107fa7fbbf7c1ed05e</applicability>
+        <list display_value="All">777621a873201010a0a79329faf6a712</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 12:55:15</sys_created_on>
+        <sys_id>14eab6ab07a241107fa7fbbf7c1ed006</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CareTake" source="x_797485_caretake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CareTake">c135cfd507a601107fa7fbbf7c1ed0e3</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_14eab6ab07a241107fa7fbbf7c1ed006</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 12:55:15</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>
